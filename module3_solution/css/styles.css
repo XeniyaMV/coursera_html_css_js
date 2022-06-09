@@ -1,0 +1,40 @@
+/** HEADER **/
+#restaurant-name {
+    /* font-family: 'Dancing Script', cursive, serif; */
+    
+    /* font-family: 'Cardo', serif; */
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 0.6;
+    color: aliceblue;
+    text-shadow: 2px 2px 3px #26143e;
+
+
+}
+
+nav.navbar {
+    background-color: #88b946;
+    opacity: 0.75;
+}
+
+ul.nav {
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: #fff;
+}
+
+
+.navbar-default .navbar-nav>li>a {
+    color: #26143e;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.navbar-default .navbar-nav>li>hr {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 80%;
+    border-top: 1px solid #26143e
+    
+}
+/** END HEADER **/
