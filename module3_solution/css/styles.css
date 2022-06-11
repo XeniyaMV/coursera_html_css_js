@@ -40,7 +40,7 @@ ul.nav {
 /** END HEADER **/
 
 /** MAIN PAGE **/
-#main-page h2.page-heading {
+#main-page h2#page-heading {
     margin-top: 70px;
 }
 #main-page h3.section-heading {
