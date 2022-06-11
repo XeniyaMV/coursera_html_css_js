@@ -4,24 +4,17 @@ body {
 
 /** HEADER **/
 #restaurant-name {
-    /* font-family: 'Dancing Script', cursive, serif; */
-    
-    /* font-family: 'Cardo', serif; */
-    /* font-family: 'Playfair Display', serif; */
     margin-top: 0;
     margin-bottom: 0;
     line-height: 0.6;
     color: #fff;
-    /* text-shadow: 2px 2px 3px #26143e; */
     text-shadow: 1px 1px 3px #000;
 
 
 }
 
 nav.navbar {
-    /* background-color: #88b946; */
     background-color: #FFF275;
-    /* opacity: 0.75; */
 }
 
 ul.nav {
@@ -34,16 +27,12 @@ ul.nav {
     margin-top: 1px;
     margin-bottom: 1px;
     width: 70%;
-    /* border-top: 1px solid #26143e */
     
 }
 
 #collapsable-nav a {
     font-size: 1.2em;
-    /* color: #26143e; */
     color: #000;
-    /* padding-top: 5px;
-    padding-bottom: 5px; */
     padding-top: 2px;
     padding-bottom: 2px;
     margin-bottom: 2px;
@@ -51,8 +40,10 @@ ul.nav {
 /** END HEADER **/
 
 /** MAIN PAGE **/
+#main-page h2.page-heading {
+    margin-top: 70px;
+}
 #main-page h3.section-heading {
-    /* text-align: center; */
     padding-top: 10px;
     margin-bottom: 5px;
 
@@ -62,7 +53,6 @@ ul.nav {
     padding-right: 20px;
 }
 #main-page section {
-    /* background-color: #95F5BA; */
     padding-left: 10px;
     padding-right: 10px;
 }
@@ -70,7 +60,6 @@ div.my-content {
     background-color: #DCDDF5;
     padding-left: 10px;
     padding-right: 10px;
-    /* padding-top: 5px; */
     padding-bottom: 5px;
     border-radius: 3px;
 
